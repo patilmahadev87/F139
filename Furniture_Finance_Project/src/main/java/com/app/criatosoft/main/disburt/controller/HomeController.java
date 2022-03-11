@@ -24,7 +24,7 @@ import com.app.criatosoft.main.disburt.service.HomeService;
 
 @CrossOrigin("*")
 @RestController
-
+// by deva changes
 public class HomeController {
 
 	@Autowired
